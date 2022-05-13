@@ -1,0 +1,11 @@
+{
+  "name": "my-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "this is myown test tools",
+  "keywords": [
+    "dateFormat",
+    "my-tools"
+  ],
+  "license": "ISC"
+}

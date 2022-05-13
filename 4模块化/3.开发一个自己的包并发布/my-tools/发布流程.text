@@ -1,0 +1,10 @@
+1.发布的时候需查看当前下载资源的服务器是不是npm
+  nrm ls 查看
+2.如果不是，nrm use npm切换到对应的服务器
+
+3.npm login输入密码用户登录到npm服务器
+
+4.切换到包的根目录 npm publish发布
+
+删除 npm unpublish 包 --force
+只能删除72小时以内的，24h内不能重复发布
